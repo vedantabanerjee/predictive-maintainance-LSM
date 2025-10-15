@@ -12,6 +12,10 @@
 
 ### progress update
 
+date: october 15th 2025
+- EDA notebook is uploaded where there is comprehensive EDA is performed on the new extensive dataaset
+- take1 notebook is uploaded with a simple model on the new dataset giving an accuracy of 94% is uploaded.
+
 date: october 13th 2025
 - new additional data was taken and a new dataset with 36,000 samples in each class (12k samples from each point).
 - Sample rate is ~ 32samples/second => 40Hz.
