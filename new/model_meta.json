@@ -1,0 +1,19 @@
+{
+  "window_size": 64,
+  "step": 32,
+  "n_channels": 6,
+  "data_columns": [
+    "ax",
+    "ay",
+    "az",
+    "gx",
+    "gy",
+    "gz"
+  ],
+  "classes": [
+    0,
+    1,
+    2,
+    3
+  ]
+}
